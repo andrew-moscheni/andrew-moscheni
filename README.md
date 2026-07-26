@@ -19,7 +19,7 @@
 - I love playing ice hockey!
 
 ### Lets Connect! 🤝
-<a href="[https://linkedin.com](https://www.linkedin.com/in/andrew-g-moscheni-3468a1269/)">
+<a href="https://www.linkedin.com/in/andrew-g-moscheni-3468a1269/">
   <img src="https://shields.io" alt="LinkedIn Badge" />
 </a>
 
