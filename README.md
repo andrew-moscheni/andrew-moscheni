@@ -19,13 +19,8 @@
 - I love playing ice hockey!
 
 ### Lets Connect! 🤝
-<a href="https://www.linkedin.com/in/andrew-g-moscheni-3468a1269/">
-  <img src="https://shields.io" alt="LinkedIn Badge" />
-</a>
-
-<a href="mailto:agmoscheni@gmail.com">
-  <img src="https://shields.io" alt="Gmail Badge" />
-</a>
+[![LinkedIn](https://shields.io)]((https://www.linkedin.com/in/andrew-g-moscheni-3468a1269/))
+[![Gmail](https://shields.io)](mailto:agmoscheni@gmail.com)
 
 <!--
 **andrew-moscheni/andrew-moscheni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
