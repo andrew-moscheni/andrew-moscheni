@@ -19,7 +19,7 @@
 - I love playing ice hockey!
 
 ### Lets Connect! 🤝
-[![LinkedIn](https://shields.io)](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-g-moscheni-3468a1269/)
+[![LinkedIn Badge](https://shields.io)](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-g-moscheni-3468a1269/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agmoscheni@gmail.com)
 
 <!--
