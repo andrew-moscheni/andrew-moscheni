@@ -19,8 +19,13 @@
 - I love playing ice hockey!
 
 ### Lets Connect! 🤝
-[![LinkedIn Badge](https://shields.io)](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-g-moscheni-3468a1269/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agmoscheni@gmail.com)
+<a href="https://www.linkedin.com/in/andrew-g-moscheni-3468a1269/" rel="nofollow">
+  <img align="left" width="26px" src="https://camo.githubusercontent.com/431ee030a15cd45e1e9d968d3731105084b2aa62e480772027ecb8bdd90a0eac/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="max-width: 100%;">
+</a>
+
+<a href="mailto:agmoscheni@gmail.com">
+  <img align="left" width="26px" src="https://camo.githubusercontent.com/0d8777c0cb70d9c1653295e9219b0b466241f218d8f2e76b1c74bd2ea6ae4284/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f676d61696c" data-canonical-src="https://cdn.simpleicons.org/gmail" style="max-width: 100%;">
+</a>
 
 <!--
 **andrew-moscheni/andrew-moscheni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
