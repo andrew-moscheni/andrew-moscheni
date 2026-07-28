@@ -12,6 +12,7 @@
 - [Options Pricing Engine](https://github.com/andrew-moscheni/options-pricing-engine): a calculator to price options based on popular pricing models such as the Black-Scholes and Binomial Lattice
 - [FinancialViz](https://github.com/andrew-moscheni/FinancialVizDashboard): a sleek dashboard that performs multi-dimensional scaling with a gradient-boosting classifier on the top 25 stocks in the S&P 500
 - [RAG on SciPy codebase](https://github.com/andrew-moscheni/RAG-over-SciPy-codebase): an academic research assignment based upon building a RAG system to augment a simple LLM with SciPy queries
+- [Parking4SBU](https://github.com/antenmanuuel/p4sbu-sbu11): Collaborated with 3 students to design, implement, and deploy a parking application for Stony Brook University
 
 ### My Interests 🤖🧠🇦🇮👾🏒🥅
 - Machine Learning, LLMs, and Retrieval Augment Generation (RAG)
