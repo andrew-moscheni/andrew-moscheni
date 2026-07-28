@@ -8,7 +8,7 @@
 - Construction Services Associate; Consolidated Edison, Inc.; Bronx, New York; October 2025-present
 - Machine Learning Intern; IAMBIC, Inc.; New York, New York; January 2023-May 2023
 
-### Current Projects 🛠️
+### Projects 🛠️
 - [Options Pricing Engine](https://github.com/andrew-moscheni/options-pricing-engine): a calculator to price options based on popular pricing models such as the Black-Scholes and Binomial Lattice
 - [FinancialViz](https://github.com/andrew-moscheni/FinancialVizDashboard): a sleek dashboard that performs multi-dimensional scaling with a gradient-boosting classifier on the top 25 stocks in the S&P 500
 - [RAG on SciPy codebase](https://github.com/andrew-moscheni/RAG-over-SciPy-codebase): an academic research assignment based upon building a RAG system to augment a simple LLM with SciPy queries
